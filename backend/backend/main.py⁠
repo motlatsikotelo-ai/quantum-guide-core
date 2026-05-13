@@ -1,0 +1,5 @@
+├── Core API (REST + WebSocket)
+├── AI Planning Engine (LLM + 3D Generation)
+├── Scene Management Service
+├── Asset & Material Store
+└── User/Project Persistence
