@@ -1,0 +1,5 @@
+├── UI Components (Material 3)
+├── Canvas Widget (HTML/JS bridge for Three.js)
+├── WebSocket Client (real-time updates)
+├── Local State (room editing, measurements)
+└── AI Prompt Interface
