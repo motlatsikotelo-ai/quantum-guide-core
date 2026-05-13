@@ -1,0 +1,5 @@
+├── WebGL Canvas (embedded in Flutter WebView)
+├── Real-time Scene Graph
+├── Physics & Collision Detection
+├── Material/Texture Manager
+└── Export Pipeline (GLTF, OBJ, PDF)
